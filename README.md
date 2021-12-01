@@ -8,7 +8,7 @@ A Minimalist Productivity App
 
 Here's a quick demo of the app.
 
-[Flow - A Minimalist Productivity App](https://www.youtube.com/watch?v=)
+[Flow - A Minimalist Productivity App](https://www.youtube.com/watch?v=b4vL89DUb_Y)
 
 ## Features
 

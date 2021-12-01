@@ -70,7 +70,7 @@ const Home = () => {
         channel="youtube"
         autoplay
         isOpen={isOpen}
-        videoId=""
+        videoId="b4vL89DUb_Y"
         onClose={() => setIsOpen(false)}
       />
     </>
